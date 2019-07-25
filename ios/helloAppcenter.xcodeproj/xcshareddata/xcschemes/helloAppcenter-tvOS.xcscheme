@@ -29,9 +29,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-               BuildableName = "helloAppcenter-tvOS.app"
-               BlueprintName = "helloAppcenter-tvOS"
-               ReferencedContainer = "container:helloAppcenter.xcodeproj">
+               BuildableName = "helloAppCenter-tvOS.app"
+               BlueprintName = "helloAppCenter-tvOS"
+               ReferencedContainer = "container:helloAppCenter.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -43,9 +43,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E48F1E0B4A5D006451C7"
-               BuildableName = "helloAppcenter-tvOSTests.xctest"
-               BlueprintName = "helloAppcenter-tvOSTests"
-               ReferencedContainer = "container:helloAppcenter.xcodeproj">
+               BuildableName = "helloAppCenter-tvOSTests.xctest"
+               BlueprintName = "helloAppCenter-tvOSTests"
+               ReferencedContainer = "container:helloAppCenter.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -61,9 +61,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E48F1E0B4A5D006451C7"
-               BuildableName = "helloAppcenter-tvOSTests.xctest"
-               BlueprintName = "helloAppcenter-tvOSTests"
-               ReferencedContainer = "container:helloAppcenter.xcodeproj">
+               BuildableName = "helloAppCenter-tvOSTests.xctest"
+               BlueprintName = "helloAppCenter-tvOSTests"
+               ReferencedContainer = "container:helloAppCenter.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -71,9 +71,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "helloAppcenter-tvOS.app"
-            BlueprintName = "helloAppcenter-tvOS"
-            ReferencedContainer = "container:helloAppcenter.xcodeproj">
+            BuildableName = "helloAppCenter-tvOS.app"
+            BlueprintName = "helloAppCenter-tvOS"
+            ReferencedContainer = "container:helloAppCenter.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -94,9 +94,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "helloAppcenter-tvOS.app"
-            BlueprintName = "helloAppcenter-tvOS"
-            ReferencedContainer = "container:helloAppcenter.xcodeproj">
+            BuildableName = "helloAppCenter-tvOS.app"
+            BlueprintName = "helloAppCenter-tvOS"
+            ReferencedContainer = "container:helloAppCenter.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -113,9 +113,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "helloAppcenter-tvOS.app"
-            BlueprintName = "helloAppcenter-tvOS"
-            ReferencedContainer = "container:helloAppcenter.xcodeproj">
+            BuildableName = "helloAppCenter-tvOS.app"
+            BlueprintName = "helloAppCenter-tvOS"
+            ReferencedContainer = "container:helloAppCenter.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
